@@ -1,0 +1,6 @@
+{
+  "name": "PREMIUM BOT",
+  "description": "Ultra-modern professional AI-powered trading analytics platform inspired by SP Trader with live market feeds, OTC analysis, indicators, and access key security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
